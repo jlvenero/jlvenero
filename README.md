@@ -45,21 +45,6 @@
 
 ---
 
-### 📌 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/jlvenero/REPO1">
-    <img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jlvenero&repo=REPO1&theme=radical" alt="Projeto em destaque 1" />
-  </a>
-  <a href="https://github.com/jlvenero/REPO2">
-    <img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jlvenero&repo=REPO2&theme=radical" alt="Projeto em destaque 2" />
-  </a>
-</div>
-
-> 💡 Troque `REPO1` e `REPO2` pelos nomes exatos dos seus repositórios que você quer destacar (ex: sua melhor landing page ou o projeto full-stack mais robusto).
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
